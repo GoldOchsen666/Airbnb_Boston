@@ -26,7 +26,7 @@ There are 2 notebooks available here to showcase work related to the above quest
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://tobias-merk2.medium.com/what-are-the-largest-influences-on-airbnb-prices-in-boston-6f3feb6c0909).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
