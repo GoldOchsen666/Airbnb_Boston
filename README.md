@@ -18,7 +18,7 @@ For this project, I was interestested in using Airbnb data from Boston to better
 
 1. What neighbourhoods are more expensive to stay at?
 2. Do good review scores influence the price? If yes, how?
-3. What attributes have the most influence (positive and negative) on the price?
+3. What other attributes have the most influence (positive and negative) on the price?
 
 ## File Descriptions <a name="files"></a>
 
